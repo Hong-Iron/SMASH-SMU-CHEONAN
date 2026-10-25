@@ -20,5 +20,44 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "계당관": {
+      "style": "tan",
+      "wall": "#dbd8cd",
+      "glass": "#3a4550",
+      "frame": "#a9a79d"
+    },
+    "디자인관": {
+      "style": "glass",
+      "wall": "#9aa0a3",
+      "glass": "#3f4e56",
+      "frame": "#7d878c"
+    },
+    "한누리관": {
+      "style": "ribbon",
+      "wall": "#c4c8ce",
+      "glass": "#5f8a88",
+      "frame": "#9ea4aa"
+    },
+    "상명스포츠센터": {
+      "style": "tan",
+      "wall": "#cfc6b5",
+      "glass": "#3e3f39",
+      "frame": "#8a8478"
+    },
+    "식물과학관": {
+      "style": "glass",
+      "wall": "#dcdedd",
+      "glass": "#5f6e6b",
+      "frame": "#9aa3a2"
+    },
+    "본관": {
+      "style": "stone",
+      "wall": "#e3ddd2",
+      "glass": "#3a3f40",
+      "frame": "#998e84"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
