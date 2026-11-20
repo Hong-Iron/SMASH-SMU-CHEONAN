@@ -1,0 +1,34 @@
+{
+ "region": "충남 천안시 동남구 안서동",
+ "nameEn": "Sangmyung University Cheonan Campus",
+ "added": "2026-10-24",
+ "rank": 113,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "HOSEO-CHEONAN",
+   "campus": "호서대학교 천안캠퍼스",
+   "km": 0.6
+  },
+  {
+   "code": "BU",
+   "campus": "백석대학교",
+   "km": 0.9
+  },
+  {
+   "code": "DANKOOK-CHEONAN",
+   "campus": "단국대학교 천안캠퍼스",
+   "km": 1.0
+  },
+  {
+   "code": "KONGJU-CHEONAN",
+   "campus": "국립공주대학교 천안캠퍼스",
+   "km": 3.2
+  },
+  {
+   "code": "NAZARENE",
+   "campus": "나사렛대학교",
+   "km": 6.7
+  }
+ ]
+}
